@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.ibb.co/fCZPMSy/hapy-Pet-Logo-Github.png" alt="hapy-Pet-Logo-Github" border="0" /></p>
 
 <p align="center">
-  <a href="#heart-projeto">Tecnologias</a>
+  <a href="#-tecnologias"> Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a     href="#-tecnologias"> Projeto</a>
+  <a href="#heart-projeto">Tecnologias</a>
 <p/>
 
 <br/>
