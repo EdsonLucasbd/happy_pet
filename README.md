@@ -1,5 +1,13 @@
 <p align="center"><img src="https://i.ibb.co/fCZPMSy/hapy-Pet-Logo-Github.png" alt="hapy-Pet-Logo-Github" border="0" /></p>
 
+<p align="center">
+  <a href="#heart-projeto">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a     href="#-tecnologias"> Projeto</a>
+<p/>
+
+<br/>
+<br/>
 <p align="center"><img src="https://i.ibb.co/vPJzYLW/happy.png" alt="happy" border="0"></p>
   
 # :heart: Projeto
