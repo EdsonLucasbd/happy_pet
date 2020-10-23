@@ -15,7 +15,7 @@ function landing() {
         <img src={happyPetLogo} alt="happy" />
 
         <main>
-          <h1>Leve feliciadade para o seu lar</h1>
+          <h1>Leve alegria para o seu lar</h1>
           <p>Visite ONGs e abrigos e mude a vida de um pet.</p>
         </main>
 
