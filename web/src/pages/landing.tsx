@@ -5,13 +5,14 @@ import { Link } from 'react-router-dom';
 import '../styles/pages/landing.css';
 
 import logoImg from '../images/logo.svg';
+import happyPetLogo from '../images/happyPetLogo.png';
 
 
 function landing() {
   return (
     <div id="page-landing">
       <div className="content-wrapper">
-        <img src={logoImg} alt="happy" />
+        <img src={happyPetLogo} alt="happy" />
 
         <main>
           <h1>Leve feliciadade para o seu lar</h1>
