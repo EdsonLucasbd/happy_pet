@@ -8,7 +8,7 @@
 
 <br/>
 <br/>
-<p align="center"><img src="https://i.ibb.co/vPJzYLW/happy.png" alt="happy" border="0"></p>
+<p align="center"><img src="https://i.ibb.co/chX7nmG/happy.png" alt="happy" border="0"></p>
 
 <p align="center"><img src="https://media.giphy.com/media/j6y6MtFUbw2PECjPbH/giphy.gif" alt="happyPetGif"><p/>
   
